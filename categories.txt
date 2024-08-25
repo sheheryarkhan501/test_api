@@ -2,8 +2,6 @@
   "data": {
     "categories": [
       {
-        "name": "Career",
-        "place": "best"
       },
       {
         "name": "Character"
