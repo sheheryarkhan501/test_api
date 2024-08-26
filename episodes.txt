@@ -3,7 +3,7 @@
     "media": [
       {
         "type": "course",
-        "title": "Conscious Parenting * 1",
+        "title": "Conscious Parenting * 1"
       },
       {
         "type": "course",
