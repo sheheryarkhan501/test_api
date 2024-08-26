@@ -10,9 +10,7 @@
             "title": "How Journaling Helped Create a $500M Company"
           },
           {
-            "type": "course",
             "coverAsset": {
-              "url": "https://assets.mindvalley.com/api/v1/assets/c3b924a1-7e33-4175-9647-95d011b986ba.jpg?transform=w_1080"
             }
           },
           {
@@ -184,7 +182,6 @@
       {
         "title": "Lifebook Membership",
         "mediaCount": 173,
-        "series":[],
         "latestMedia": [
           {
             "type": "course",
@@ -298,7 +295,6 @@
         "mediaCount": 27,
         "latestMedia": [
           {
-            "type": "course",
             "title": "Emotional Health",
             "coverAsset": {
               "url": "https://assets.mindvalley.com/api/v1/assets/b33f048f-50e5-4f22-870a-f40e3c9d0b28.jpg?transform=w_1080"
@@ -444,23 +440,12 @@
             }
           }
         ],
-        "iconAsset": {
-          "url": "https://assets.mindvalley.com/api/v1/assets/eb493421-c048-492b-a471-bed7604e95d6.jpg?transform=w_1080"
-        },
         "coverAsset": {
           "url": "https://assets.mindvalley.com/api/v1/assets/e819d374-a6d9-4308-bde1-1e145426e546.jpg?transform=w_1080"
         }
       },
       {
         "title": "Master's Circle",
-        "series": [
-          {
-            "title": "Master's Circle",
-            "coverAsset": {
-              "url": "https://assets.mindvalley.com/api/v1/assets/d4e30377-041a-47b4-b24a-19c598464b5c.jpg?transform=w_1080"
-            }
-          }
-        ],
         "mediaCount": 103,
         "latestMedia": [
           {
