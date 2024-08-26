@@ -2,7 +2,6 @@
   "data": {
     "categories": [
       {
-        "name": "Career"
       },
       {
         "name": "Character"
