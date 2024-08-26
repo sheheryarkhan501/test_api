@@ -4,18 +4,13 @@
       {
         "title": "Mindvalley Mentoring",
         "series": [],
-        "mediaCount": 98,
         "latestMedia": [
           {
             "type": "course",
-            "title": "How Journaling Helped Create a $500M Company",
-            "coverAsset": {
-              "url": "https://assets.mindvalley.com/api/v1/assets/a90653b8-8475-41a9-925a-3a1bf0e7cd5f.jpg?transform=w_1080"
-            }
+            "title": "How Journaling Helped Create a $500M Company"
           },
           {
             "type": "course",
-            "title": "The Truth About Water",
             "coverAsset": {
               "url": "https://assets.mindvalley.com/api/v1/assets/c3b924a1-7e33-4175-9647-95d011b986ba.jpg?transform=w_1080"
             }
@@ -25,13 +20,6 @@
             "title": "Vishen's Optimized Morning Routine",
             "coverAsset": {
               "url": "https://assets.mindvalley.com/api/v1/assets/953f74d2-52a9-4769-9369-04849e786bb4.jpg?transform=w_1080"
-            }
-          },
-          {
-            "type": "course",
-            "title": "What To Eat For A Genius Brain",
-            "coverAsset": {
-              "url": "https://assets.mindvalley.com/api/v1/assets/bff42af7-5a7e-46fb-bcda-7eb7dc3fb342.jpg"
             }
           },
           {
@@ -92,9 +80,6 @@
           }
         ],
         "id": "11",
-        "iconAsset": {
-          "thumbnailUrl": "https://edgecastcdn.net/80EC13/public/overmind2/asset/11914f01-ba4a-4d68-9c33-efb34c43ed23/channel-icon-mentoring_thumbnail.png"
-        },
         "coverAsset": {
           "url": "https://assets.mindvalley.com/api/v1/assets/8fd5837a-539c-4367-b1af-8579a3e3d461.jpg?transform=w_1080"
         }
